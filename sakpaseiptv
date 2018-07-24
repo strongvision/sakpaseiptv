@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1,BE: La une
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/296.ts
+#EXTINF:-1,BE: La trois
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/298.ts
+#EXTINF:-1,BE: La deux
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/297.ts
+#EXTINF:-1,BE: 2BE
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1412.ts
+#EXTINF:-1,BE: AB3 HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1416.ts
+#EXTINF:-1,BE: ACHT HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1405.ts
+#EXTINF:-1,BE: CANVAS HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1404.ts
+#EXTINF:-1,BE: CINEMA 1
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1403.ts
+#EXTINF:-1,BE: CINEMA 2
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1402.ts
+#EXTINF:-1,BE: EEN HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1408.ts
+#EXTINF:-1,BE: ketnet
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1411.ts
+#EXTINF:-1,BE: PLUG RTL HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1413.ts
+#EXTINF:-1,BE: RTL PLUG HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1401.ts
+#EXTINF:-1,BE: RTL TVI HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1415.ts
+#EXTINF:-1,BE: VIER HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1407.ts
+#EXTINF:-1,BE: VIJF HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1406.ts
+#EXTINF:-1,BE: VITAYA
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1410.ts
+#EXTINF:-1,BE: VTM HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1409.ts
+#EXTINF:-1,BE: CLUB RTL HD
+http://kingofiptv.mountservers.com:7020/live/shs.malta/CptWJlAKQ3faoF7A/1414.ts
+
+#EXTINF:-1,BE: Bruxelles
+http://178.33.230.107:8000/live/suisse/suisse/7749.ts
+#EXTINF:-1,BE: BXL1
+http://178.33.230.107:8000/live/suisse/suisse/7748.ts
+#EXTINF:-1,BE: Canvas HD
+http://178.33.230.107:8000/live/suisse/suisse/7753.ts
+#EXTINF:-1,BE: CAZ
+http://178.33.230.107:8000/live/suisse/suisse/7746.ts
+#EXTINF:-1,BE: CINE
+http://178.33.230.107:8000/live/suisse/suisse/7745.ts
+#EXTINF:-1,BE: CINEMA 1 FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7744.ts
+#EXTINF:-1,BE: CINEMA 2 FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7743.ts
+#EXTINF:-1,BE: CLUB RTL FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7754.ts
+#EXTINF:-1,BE: een HD
+http://178.33.230.107:8000/live/suisse/suisse/7755.ts
+#EXTINF:-1,BE: ELEVEN SPORT
+http://178.33.230.107:8000/live/suisse/suisse/7730.ts
+#EXTINF:-1,BE: KADET
+http://178.33.230.107:8000/live/suisse/suisse/7742.ts
+#EXTINF:-1,BE: KETNET KIDS
+http://178.33.230.107:8000/live/suisse/suisse/7741.ts
+#EXTINF:-1,BE: KetOp12
+http://178.33.230.107:8000/live/suisse/suisse/7756.ts
+#EXTINF:-1,BE: LA DEUX FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7757.ts
+#EXTINF:-1,BE: LA TROIS FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7758.ts
+#EXTINF:-1,BE: PLUG RTL FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7760.ts
+#EXTINF:-1,BE: Q2 HD
+http://178.33.230.107:8000/live/suisse/suisse/7768.ts
+#EXTINF:-1,BE: RTC HD
+http://178.33.230.107:8000/live/suisse/suisse/7747.ts
+#EXTINF:-1,BE: RTL LUXENBURG
+http://178.33.230.107:8000/live/suisse/suisse/7740.ts
+#EXTINF:-1,BE: RTL TVI FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7761.ts
+#EXTINF:-1,BE: TV LIMBURG
+http://178.33.230.107:8000/live/suisse/suisse/7739.ts
+#EXTINF:-1,BE: TVO
+http://178.33.230.107:8000/live/suisse/suisse/7762.ts
+#EXTINF:-1,BE: UNE HD FR-BE
+http://178.33.230.107:8000/live/suisse/suisse/7759.ts
+#EXTINF:-1,BE: VIER HD
+http://178.33.230.107:8000/live/suisse/suisse/7763.ts
+#EXTINF:-1,BE: VIJF
+http://178.33.230.107:8000/live/suisse/suisse/7764.ts
+#EXTINF:-1,BE: Vitaya
+http://178.33.230.107:8000/live/suisse/suisse/7765.ts
+#EXTINF:-1,BE: VOO SPORT 1
+http://178.33.230.107:8000/live/suisse/suisse/7736.ts
+#EXTINF:-1,BE: Voo Sport 2
+http://178.33.230.107:8000/live/suisse/suisse/7735.ts
+#EXTINF:-1,BE: Voo Sport 4 HD
+http://178.33.230.107:8000/live/suisse/suisse/7733.ts
+#EXTINF:-1,BE: Voo Sport World 1
+http://178.33.230.107:8000/live/suisse/suisse/7732.ts
+#EXTINF:-1,BE: Voo Sport World 2
+http://178.33.230.107:8000/live/suisse/suisse/7731.ts
+#EXTINF:-1,BE: Voo Sport World 3
+http://178.33.230.107:8000/live/suisse/suisse/7734.ts
+#EXTINF:-1,BE: VTM HD
+http://178.33.230.107:8000/live/suisse/suisse/7766.ts
+#EXTINF:-1,BE: VTM NIEUWS
+http://178.33.230.107:8000/live/suisse/suisse/7738.ts
+#EXTINF:-1,BE: VTMKazoom/Kanaal Z
+http://178.33.230.107:8000/live/suisse/suisse/7767.ts
+#EXTINF:-1,BE: ATV Antwerpen
+http://178.33.230.107:8000/live/suisse/suisse/7752.ts
+#EXTINF:-1,BE: BEL RTL
+http://178.33.230.107:8000/live/suisse/suisse/7751.ts
+#EXTINF:-1,BE: BFM
+http://178.33.230.107:8000/live/suisse/suisse/7750.ts
+
+#EXTINF:-1,BE: BFM
+http://178.33.230.107:8000/live/gareth/gareth/7750.ts
+#EXTINF:-1,BE: Bruxelles
+http://178.33.230.107:8000/live/gareth/gareth/7749.ts
+#EXTINF:-1,BE: BXL1
+http://178.33.230.107:8000/live/gareth/gareth/7748.ts
+#EXTINF:-1,BE: Canvas HD
+http://178.33.230.107:8000/live/gareth/gareth/7753.ts
+#EXTINF:-1,BE: CAZ
+http://178.33.230.107:8000/live/gareth/gareth/7746.ts
+#EXTINF:-1,BE: CINE
+http://178.33.230.107:8000/live/gareth/gareth/7745.ts
+#EXTINF:-1,BE: CINEMA 1 FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7744.ts
+#EXTINF:-1,BE: CINEMA 2 FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7743.ts
+#EXTINF:-1,BE: CLUB RTL FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7754.ts
+#EXTINF:-1,BE: een HD
+http://178.33.230.107:8000/live/gareth/gareth/7755.ts
+#EXTINF:-1,BE: ELEVEN SPORT
+http://178.33.230.107:8000/live/gareth/gareth/7730.ts
+#EXTINF:-1,BE: KADET
+http://178.33.230.107:8000/live/gareth/gareth/7742.ts
+#EXTINF:-1,BE: KETNET KIDS
+http://178.33.230.107:8000/live/gareth/gareth/7741.ts
+#EXTINF:-1,BE: KetOp12
+http://178.33.230.107:8000/live/gareth/gareth/7756.ts
+#EXTINF:-1,BE: LA DEUX FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7757.ts
+#EXTINF:-1,BE: LA TROIS FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7758.ts
+#EXTINF:-1,BE: PLUG RTL FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7760.ts
+#EXTINF:-1,BE: Q2 HD
+http://178.33.230.107:8000/live/gareth/gareth/7768.ts
+#EXTINF:-1,BE: RTC HD
+http://178.33.230.107:8000/live/gareth/gareth/7747.ts
+#EXTINF:-1,BE: RTL LUXENBURG
+http://178.33.230.107:8000/live/gareth/gareth/7740.ts
+#EXTINF:-1,BE: RTL TVI FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7761.ts
+#EXTINF:-1,BE: TV LIMBURG
+http://178.33.230.107:8000/live/gareth/gareth/7739.ts
+#EXTINF:-1,BE: TVO
+http://178.33.230.107:8000/live/gareth/gareth/7762.ts
+#EXTINF:-1,BE: UNE HD FR-BE
+http://178.33.230.107:8000/live/gareth/gareth/7759.ts
+#EXTINF:-1,BE: VIER HD
+http://178.33.230.107:8000/live/gareth/gareth/7763.ts
+#EXTINF:-1,BE: VIJF
+http://178.33.230.107:8000/live/gareth/gareth/7764.ts
+#EXTINF:-1,BE: Vitaya
+http://178.33.230.107:8000/live/gareth/gareth/7765.ts
+#EXTINF:-1,BE: VOO SPORT 1
+http://178.33.230.107:8000/live/gareth/gareth/7736.ts
+#EXTINF:-1,BE: Voo Sport 2
+http://178.33.230.107:8000/live/gareth/gareth/7735.ts
+#EXTINF:-1,BE: Voo Sport 4 HD
+http://178.33.230.107:8000/live/gareth/gareth/7733.ts
+#EXTINF:-1,BE: Voo Sport World 1
+http://178.33.230.107:8000/live/gareth/gareth/7732.ts
+#EXTINF:-1,BE: Voo Sport World 2
+http://178.33.230.107:8000/live/gareth/gareth/7731.ts
+#EXTINF:-1,BE: Voo Sport World 3
+http://178.33.230.107:8000/live/gareth/gareth/7734.ts
+#EXTINF:-1,BE: VTM HD
+http://178.33.230.107:8000/live/gareth/gareth/7766.ts
+#EXTINF:-1,BE: VTM NIEUWS
+http://178.33.230.107:8000/live/gareth/gareth/7738.ts
